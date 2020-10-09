@@ -1,4 +1,4 @@
-### Hi there 👋
+[![shycoldii's github stats](https://github-readme-stats.vercel.app/api?username=shycoldii&show_icons=true)](https://github.com/shycoldii)
 
 <!--
 **shycoldii/shycoldii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
