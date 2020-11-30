@@ -3,6 +3,7 @@
 <img src = "https://sites.google.com/site/daramultserial/_/rsrc/1399141496089/home/p_f.jpg?height=400&width=390" align="right" width="300">
 
 [![shycoldii's github stats](https://github-readme-stats.vercel.app/api?username=shycoldii&show_icons=true)](https://github.com/shycoldii)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shycoldii)  
 <!--
 **shycoldii/shycoldii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
